@@ -1,0 +1,16 @@
+{
+    "name": "SangoUtils.Tweens_Unity",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5b2f81a9555122e4d969c93af6a3a33f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
